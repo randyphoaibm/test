@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "IrisNet-1.txt",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-05-23T03:33:12Z",
+    "created": 1653276792595,
+    "asset_id": "data_asset.IrisNet1txt",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/plain"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "IrisNet-1.txt",
+      "mime": "text/plain",
+      "object_key": "data_asset/IrisNet-1.txt",
+      "object_key_is_read_only": true,
+      "created_at": "2022-05-23T03:33:12Z",
+      "id": "349fa8d9-9c05-405c-9658-14a48792315e",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
